@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Android Development With Kotlin 2022",
+    "desc": "Build Android Applications using kotlin from zero all the way to having a solid understanding of the field and how it works with real world Projects",
+    "categories": [ "android", "kotlin", "mobile" ],
+    "price": 90,
+    "students": 35450,
+    "isHot": true,
+    "publishedDate": "20/6/2020",
+    "courseImage": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  },
+  {
+    "id": "2",
+    "title": "React Native Development 2022",
+    "desc": "Build Android and IOS Applications using React Native from zero all the way to having a solid understanding of the field and how it works with real world Projects",
+    "categories": [ "android", "ios", "mobile" ],
+    "price": 98,
+    "students": 34500,
+    "isHot": true,
+    "publishedDate": "10/9/2020",
+    "courseImage": "https://images.pexels.com/photos/4641/iphone-smartphone-taking-photo-graffiti.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  },
+  {
+    "id": "3",
+    "title": "Front-End Development With React 2022",
+    "desc": "Design and implement high-performance scalable user experiences web apps using react from zero all the way to having a solid understanding of the field and how it works with real world Projects",
+    "categories": [ "web", "react", "javascript" ],
+    "price": 95,
+    "students": 55450,
+    "isHot": false,
+    "publishedDate": "14/3/2020",
+    "courseImage": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  },
+  {
+    "id": "4",
+    "title": "JavaScript For Web Designer",
+    "desc": "Learn How to use JavaScript in The Web Browser by building applications using the Web Browser API to have a solid understanding of the field and how it works with real world projects",
+    "categories": [ "javascript", "es6", "web" ],
+    "price": 60,
+    "students": 65450,
+    "isHot": true,
+    "publishedDate": "20/6/2020",
+    "courseImage": "https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  },
+  {
+    "id": "5",
+    "title": "Android Development With Java 2022",
+    "desc": "Build Android Applications using Java from zero all the way to having a solid understanding of the field and how it works with real world projects",
+    "categories": [ "android", "java", "mobile" ],
+    "price": 90,
+    "students": 39450,
+    "isHot": false,
+    "publishedDate": "20/6/2020",
+    "courseImage": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  }
+]

@@ -1,0 +1,60 @@
+.header__nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav__content {
+    width: 75%;
+    display: flex;
+    align-items: center;
+}
+
+.header__buttons {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav__list {
+    display: flex;
+    list-style: none;
+}
+
+.nav__item {
+    margin: 0 1.3rem;
+}
+
+.logo {
+    box-shadow: 2px 2px 4px rgba(0,0,0,.5);
+    background-image: linear-gradient(black,blue);
+    color: white;
+    transform: rotate(-10deg);
+}
+
+.nav__link {
+    text-decoration: none;
+    color: black;
+    transition: all .5s;
+}
+
+.btn-login {
+    color: black;
+    border: 1px solid black;
+    margin-right: 1.2rem;
+}
+
+.btn-signup {
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    padding: .6rem .8rem;
+    text-decoration: none;
+}
+
+.active {
+    background-color: black;
+    padding: .5rem .8rem;
+    color: white;
+}
