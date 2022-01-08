@@ -7,6 +7,8 @@ import Blog from './components/Blog/Blog'
 import About from './components/About/About'
 import Jobs from './components/Jobs/Jobs'
 import CourseDetails from './components/CourseDetails/CourseDetails'
+import Signup from "./components/Signup/Signup";
+import Login from "./components/Login/Login";
 
 function App() {
   return (
@@ -20,8 +22,10 @@ function App() {
               <Route exact path='/jobs' element={<Jobs/>} />
               <Route exact path='/courses/:id' element={<CourseDetails />} />
               <Route exact path='/blog' element={<Blog />} />
+              <Route exact path="/signup" element={<Signup />} />
+              <Route exact path="/login" element={<Login />} />
               <Route path="/" element={<Navigate to="/home" />} />
-          
+              
 
           </Routes>
           

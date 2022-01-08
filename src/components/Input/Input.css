@@ -1,0 +1,41 @@
+.input__container {
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.input {
+    width: 100%;
+    padding: 1.1rem 0 1.1rem 0.3rem;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    border: none;
+    transition: all 0.4s;
+}
+
+.input-error:focus {
+    outline: 6px solid red;
+}
+
+.input-no-error:focus {
+    outline: 6px solid rgb(0, 71, 27);
+}
+
+.form__title {
+    text-align: center;
+}
+
+.submit {
+    display: block;
+    margin: 3rem auto 0 auto;
+    padding: 0.7rem 1.4rem;
+    border: none;
+    background-color: saddlebrown;
+    color: #fff;
+    font-size: 1.1rem;
+}
+
+.error {
+    color: #fff;
+    background-color: red;
+    margin-top: 0.6rem;
+    display: block;
+}
